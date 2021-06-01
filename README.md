@@ -1,1 +1,1 @@
-# Retina-Diagnosis-Using-Deep-Learning
+# Retin Diagnosis Using Deep Learning
